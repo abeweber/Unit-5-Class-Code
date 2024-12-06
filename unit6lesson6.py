@@ -34,3 +34,4 @@ print("B".isalpha())
 print("B".isalnum()) #letter or number
 print("B".isdigit())
 
+#hi
